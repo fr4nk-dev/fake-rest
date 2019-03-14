@@ -1,1 +1,75 @@
-{"markers":[{"id":1,"lat":19.3987304,"lng":-99.1730389,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}},{"id":2,"lat":19.3985683,"lng":-99.1740242,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}},{"id":3,"lat":19.3982673,"lng":-99.1748662,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}},{"id":4,"lat":19.397595,"lng":-99.1800267,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}},{"id":5,"lat":19.396917,"lng":-99.1817967,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}},{"id":6,"lat":19.395055,"lng":-99.1827407,"alpha":1,"icon":{"url":"./assets/icons/point-of-interest.svg","scaledSize":{"width":40,"height":40}}}]}
+{
+	"markers": [{
+		"id": 1,
+		"lat": 19.3987304,
+		"lng": -99.1730389,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}, {
+		"id": 2,
+		"lat": 19.3985683,
+		"lng": -99.1740242,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}, {
+		"id": 3,
+		"lat": 19.3982673,
+		"lng": -99.1748662,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}, {
+		"id": 4,
+		"lat": 19.397595,
+		"lng": -99.1800267,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}, {
+		"id": 5,
+		"lat": 19.396917,
+		"lng": -99.1817967,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}, {
+		"id": 6,
+		"lat": 19.395055,
+		"lng": -99.1827407,
+		"alpha": 1,
+		"icon": {
+			"url": "./assets/icons/point-of-interest.svg",
+			"scaledSize": {
+				"width": 40,
+				"height": 40
+			}
+		}
+	}]
+}
